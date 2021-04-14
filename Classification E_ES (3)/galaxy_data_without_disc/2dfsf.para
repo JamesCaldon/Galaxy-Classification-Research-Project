@@ -1,0 +1,8 @@
+50  ### Bin number  (***for dust simulations)
+0.03 ### Smoothing length (0.05)
+20  ### Particle number for the smoothing (50)
+2  ### Projecton 1(XY) 2(XZ) 3(YZ)
+1.43 ### Cut-off radius for the X-direction
+1.43 ### Cut-off radius for the Y-direction
+6.e10  ### Mass unit (M_sun)
+17.5  ### Size unit (kpc) ***SHOULD NOT CHANGE*

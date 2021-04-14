@@ -1,0 +1,5 @@
+data1 -> disc, fdisk/Rdisc range 0.5 to 1.0, projection 2
+data2 -> no disc, fdisk/Rdisc range 0.5 to 1.0, projection 2
+
+data3 -> disc
+data4 -> no disc

@@ -1,0 +1,4 @@
+changed data generator parameter files:
+th1a.para
+2dfsf.para
+sht.para

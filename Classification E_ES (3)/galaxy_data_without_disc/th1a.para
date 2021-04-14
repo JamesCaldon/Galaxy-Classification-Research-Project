@@ -1,0 +1,5 @@
+4  ### number of parameters to be changed
+0.5 1.0  ### fdisk range (disk mass fraction w.r.t. bulge)
+0.0 0.0 ###  bar fraction
+0.5 1.0  ### Rdisk range (disk size w.r.r. buglge size)
+0.3 0.6  ### bar length 
