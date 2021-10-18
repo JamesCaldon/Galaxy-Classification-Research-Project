@@ -1,0 +1,6 @@
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+utility/img/ filter=lfs diff=lfs merge=lfs -text
+saved_models/ filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
+esnet/ filter=lfs diff=lfs merge=lfs -text
