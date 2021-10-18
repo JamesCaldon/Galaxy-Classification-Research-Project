@@ -1,4 +1,0 @@
-changed para files:
-th1a.para
-2dfsf.para
-sht.para
